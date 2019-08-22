@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/book_store"
+            android:title="Trang chủ" />
+        <item
+            android:id="@+id/nav_community"
+            android:icon="@drawable/community"
+            android:title="Cộng đồng" />
+        <item
+            android:id="@+id/nav_bookcase"
+            android:icon="@drawable/list_book"
+            android:title="Tủ sách" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@android:drawable/ic_lock_power_off"
+            android:title="Đăng nhập" />
+    </group>
+
+    <item android:title="Thêm">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Chia sẻ app" />
+            <item
+                android:id="@+id/nav_app_vote"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Đánh giá ứng dụng" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_send"
+                android:title="About" />
+        </menu>
+    </item>
+
+</menu>

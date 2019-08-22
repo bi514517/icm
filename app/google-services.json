@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "831028015396",
+    "firebase_url": "https://truyenlalala.firebaseio.com",
+    "project_id": "truyenlalala",
+    "storage_bucket": "truyenlalala.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831028015396:android:98530cbbba664477",
+        "android_client_info": {
+          "package_name": "app.creativestudio.dtu.truyenlalala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831028015396-g0s19br538vc1pnr08g55oamr7gofhi4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.creativestudio.dtu.truyenlalala",
+            "certificate_hash": "1020b599b90494c4eb41182950fbbabe2a7e7793"
+          }
+        },
+        {
+          "client_id": "831028015396-oq5kifobqj9i00l0n461bjk7bjq122aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0uBZRq678Ea5omfJBYJX71V7C8Acqe10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831028015396-ehnnfrulhrbc63e024et9st7lb6uqcn6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
